@@ -34,7 +34,9 @@
 
 ## ✨ Scaffolding Instructions
 
-Welcome to the **deveric-nextjs-15-scafold-app**! This project was automatically generated using our custom scaffolding script, designed to streamline the setup process for a robust Next.js application integrated with modern technologies. Below are the detailed steps and capabilities of the script:
+Welcome to the **deveric-nextjs-15-scafold-app**! This project was automatically generated using our custom scaffolding script, designed to streamline the setup process for a robust Next.js application integrated with modern technologies. Below are the detailed steps and capabilities of the script repo linked below:
+
+[Script](https://github.com/ericgitangu/devops)
 
 ### 🛠️ Prerequisites
 
